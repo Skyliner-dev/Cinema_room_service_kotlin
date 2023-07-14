@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Cinema Room REST Service (Kotlin)/*
+!/Cinema Room REST Service (Kotlin)/task/
+/Cinema Room REST Service (Kotlin)/task/*
+!/Cinema Room REST Service (Kotlin)/task/src
+!/Cinema Room REST Service (Kotlin)/task/build.gradle
